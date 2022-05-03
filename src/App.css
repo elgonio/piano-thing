@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  place-content: center;
 }
 
 .App-logo {
@@ -35,4 +39,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.pianoContainer {
+  display: flex;
+  place-content: center;
 }
