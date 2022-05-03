@@ -1,3 +1,8 @@
+# What is piano-thing?
+Piano thing is a project to help me 'cheat' at playing piano. The goal is to take in a midi input and automatically make it sound 'good' no matter how poorly the user plays.
+
+current golas include not allowing the user to play off key and automatically accompanying whatever melody is played on the right hand with automatically generated chords
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
